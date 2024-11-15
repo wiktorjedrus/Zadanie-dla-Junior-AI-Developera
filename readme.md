@@ -13,7 +13,7 @@ git clone https://github.com/wiktorjedrus/Zadanie-dla-Junior-AI-Developera.git
 
 ### 2. Navigate to the Project Directory
 
-cd article-processor
+cd Zadanie-dla-Junior-AI-Developera
 
 ### 3. Install Dependencies
 
